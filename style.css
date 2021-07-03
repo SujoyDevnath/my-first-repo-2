@@ -1,0 +1,25 @@
+.d {
+    background-color: rgb(199, 199, 26);
+}
+table {
+    border-width: 3px;
+    border-style: dashed;
+    border-color: rgb(34, 118, 202);
+}
+#h {
+    text-indent: 50px;
+    margin-left: 20px;
+    position: relative;
+    top: 15px;
+}
+img {
+    border-color: chocolate;
+}
+.g {
+    border-width: 5px;
+    border-color: lightcoral;
+    border-style: dashed;
+}
+.space {
+    text-indent: 20px;
+}
